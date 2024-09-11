@@ -24,3 +24,13 @@ Binary search trees
 
 --- O(sqrt(n)) -------
 
+---- Constant Time -----
+input is constant 
+
+Arrays ----------------
+- no methods for static Arrays
+- a + width = offset
+- Arrays need a size specified (even if that size is a variable)
+- in JS, only have access to the .length property
+
+
